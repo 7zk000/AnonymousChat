@@ -29,3 +29,32 @@ DB：Firebase
 ・UID以外の個人情報を一切収集しない設計
 ・匿名性を重視したユーザーインターフェース
 ・スクリーンショット防止機能や、閲覧履歴を残さない機能
+
+【バージョン】
+・React Native: 0.74.1
+・Node.js: 20.11.1
+・npm: 10.2.4
+
+chat-apps@0.0.1
+├── @babel/core@7.24.6
+├── @babel/preset-env@7.24.6
+├── @babel/runtime@7.24.6
+├── @react-native-firebase/app@20.0.0
+├── @react-native-firebase/auth@20.0.0
+├── @react-native-firebase/firestore@20.0.0
+├── @react-native/babel-preset@0.74.83
+├── @react-native/eslint-config@0.74.83
+├── @react-native/metro-config@0.74.83
+├── @react-native/typescript-config@0.74.83
+├── @types/react-test-renderer@18.3.0
+├── @types/react@18.3.3
+├── @typescript-eslint/eslint-plugin@5.0.0
+├── babel-jest@29.7.0
+├── eslint-plugin-jest@28.5.0
+├── eslint@8.57.0
+├── jest@29.7.0
+├── prettier@2.8.8
+├── react-native@0.74.1
+├── react-test-renderer@18.2.0
+├── react@18.2.0
+└── typescript@5.0.4
